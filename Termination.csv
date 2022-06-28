@@ -1,0 +1,191 @@
+Termination Id,Termination Reason,Business unit,Tenure Range,Age,Gender,Organization level,Date,day,month,Year,Age Range,Tenure Range_1,term catgeory
+2,Position Elimation,Corporate,-1,21,Female,Mid - Level,02-02-2019,2,2,2019,21 - 30,>1 Years,Involuntory
+3,Misconduct,R&D,3,25,Male,High - Level,03-03-2020,3,3,2020,21 - 30,1-3 Years,Involuntory
+4,Punctuality,Marketing,-1,24,Female,High - Level,04-04-2021,4,4,2021,21 - 30,>1 Years,Involuntory
+6,Dangerous Behaviour,Supply Chain,-1,23,Female,Operational,06-06-2019,6,6,2019,21 - 30,>1 Years,Involuntory
+7,Poor Performance,Corporate,-1,24,Female,Operational,07-07-2020,7,7,2020,21 - 30,>1 Years,Involuntory
+8,Dishonesty,Corporate,-1,23,Female,Operational,08-08-2021,8,8,2021,21 - 30,>1 Years,Involuntory
+9,Violation of Policy,Retail,3,24,Male,Operational,09-09-2018,9,9,2018,21 - 30,1-3 Years,Involuntory
+10,Other Employment,Corporate,3,25,Female,Operational,10-10-2019,10,10,2019,21 - 30,1-3 Years,Voluntory
+11,Refusing to follow Instruction,Retail,-1,23,Female,Operational,11-11-2020,11,11,2020,21 - 30,>1 Years,Involuntory
+23,Other Employment - Same Industry,Supply Chain,3,25,Male,Operational,23-11-2020,23,11,2020,21 - 30,1-3 Years,Voluntory
+25,Other Employment,Corporate,2,23,Female,Operational,25-01-2018,25,1,2018,21 - 30,1-3 Years,Voluntory
+26,Other Employment,Corporate,1,23,Female,Operational,26-02-2019,26,2,2019,21 - 30,1-3 Years,Voluntory
+28,Position Elimation,Retail,-1,22,Female,Mid - Level,28-04-2021,28,4,2021,21 - 30,>1 Years,Involuntory
+29,Position Elimation,Retail,2,24,Female,Operational,29-05-2018,29,5,2018,21 - 30,1-3 Years,Involuntory
+30,Position Elimation,Retail,3,25,Female,Mid - Level,30-06-2019,30,6,2019,21 - 30,1-3 Years,Involuntory
+38,Poor Performance,R&D,-1,24,Male,Mid - Level,07-02-2019,7,2,2019,21 - 30,>1 Years,Involuntory
+39,Poor Performance,Retail,2,24,Male,Mid - Level,08-03-2020,8,3,2020,21 - 30,1-3 Years,Involuntory
+40,Poor Performance,Retail,1,24,Male,High - Level,09-04-2021,9,4,2021,21 - 30,1-3 Years,Involuntory
+41,Poor Performance,Retail,3,24,Male,High - Level,10-05-2018,10,5,2018,21 - 30,1-3 Years,Involuntory
+42,Poor Performance,Retail,4,24,Male,Mid - Level,11-06-2019,11,6,2019,21 - 30,3-5 Years,Involuntory
+45,Other Employment,Retail,2,30,Female,Mid - Level,14-09-2018,14,9,2018,21 - 30,1-3 Years,Voluntory
+47,Other Employment,Retail,4,29,Female,Mid - Level,16-11-2020,16,11,2020,21 - 30,3-5 Years,Voluntory
+48,Dishonesty,R&D,1,24,Female,Operational,17-12-2020,17,12,2020,21 - 30,1-3 Years,Involuntory
+50,Position Elimation,Retail,3,28,Female,Operational,19-02-2019,19,2,2019,21 - 30,1-3 Years,Involuntory
+51,Poor Performance,R&D,5,24,Male,Mid - Level,20-03-2020,20,3,2020,21 - 30,3-5 Years,Involuntory
+52,Poor Performance,Corporate,5,24,Male,Mid - Level,21-04-2021,21,4,2021,21 - 30,3-5 Years,Involuntory
+53,Poor Performance,Corporate,6,24,Male,Mid - Level,22-05-2018,22,5,2018,21 - 30,5-10 Years,Involuntory
+54,Poor Performance,Corporate,6,24,Female,Mid - Level,23-06-2019,23,6,2019,21 - 30,5-10 Years,Involuntory
+55,Poor Performance,Corporate,7,24,Female,Mid - Level,24-07-2020,24,7,2020,21 - 30,5-10 Years,Involuntory
+58,Other Employment,R&D,-1,23,Male,Mid - Level,27-10-2019,27,10,2019,21 - 30,>1 Years,Voluntory
+61,Position Elimation,Corporate,4,30,Male,Operational,30-01-2018,30,1,2018,21 - 30,3-5 Years,Involuntory
+66,Dishonesty,Supply Chain,3,28,Female,Operational,04-06-2019,4,6,2019,21 - 30,1-3 Years,Involuntory
+67,Dishonesty,Retail,4,30,Female,Operational,05-07-2020,5,7,2020,21 - 30,3-5 Years,Involuntory
+70,Other Employment,Production,3,27,Male,High - Level,08-10-2019,8,10,2019,21 - 30,1-3 Years,Voluntory
+73,Punctuality,R&D,-1,23,Male,Operational,11-01-2018,11,1,2018,21 - 30,>1 Years,Involuntory
+74,Punctuality,R&D,-1,23,Male,Operational,12-02-2019,12,2,2019,21 - 30,>1 Years,Involuntory
+83,Punctuality,R&D,2,25,Female,Operational,21-11-2020,21,11,2020,21 - 30,1-3 Years,Involuntory
+85,Punctuality,Retail,3,26,Female,Operational,23-01-2018,23,1,2018,21 - 30,1-3 Years,Involuntory
+86,Punctuality,Retail,4,28,Female,Operational,24-02-2019,24,2,2019,21 - 30,3-5 Years,Involuntory
+87,Punctuality,Retail,2,30,Female,Operational,25-03-2020,25,3,2020,21 - 30,1-3 Years,Involuntory
+88,Punctuality,Retail,1,25,Female,Operational,26-04-2021,26,4,2021,21 - 30,1-3 Years,Involuntory
+96,Inappropriate Behaviour,Corporate,-1,23,Male,Operational,03-12-2020,3,12,2020,21 - 30,>1 Years,Involuntory
+97,Inappropriate Behaviour,Corporate,-1,23,Male,Operational,04-01-2018,4,1,2018,21 - 30,>1 Years,Involuntory
+98,Inappropriate Behaviour,Marketing,1,25,Female,Operational,05-02-2019,5,2,2019,21 - 30,1-3 Years,Involuntory
+114,Inappropriate Behaviour,Marketing,4,26,Female,Operational,21-06-2019,21,6,2019,21 - 30,3-5 Years,Involuntory
+115,Inappropriate Behaviour,Retail,5,28,Female,Operational,22-07-2020,22,7,2020,21 - 30,3-5 Years,Involuntory
+116,Inappropriate Behaviour,Retail,6,30,Female,Operational,23-08-2021,23,8,2021,21 - 30,5-10 Years,Involuntory
+117,Violation of Policy,Corporate,5,24,Male,Operational,24-09-2018,24,9,2018,21 - 30,3-5 Years,Involuntory
+118,Violation of Policy,Corporate,1,24,Male,Operational,25-10-2019,25,10,2019,21 - 30,1-3 Years,Involuntory
+119,Violation of Policy,Production,2,24,Male,Mid - Level,26-11-2020,26,11,2020,21 - 30,1-3 Years,Involuntory
+121,Refusing to follow Instruction,Retail,4,30,Female,Operational,28-01-2018,28,1,2018,21 - 30,3-5 Years,Involuntory
+131,Violation of Policy,R&D,4,24,Male,Operational,07-11-2020,7,11,2020,21 - 30,3-5 Years,Involuntory
+132,Violation of Policy,Production,7,24,Female,Mid - Level,08-12-2018,8,12,2018,21 - 30,5-10 Years,Involuntory
+134,Violation of Policy,Retail,8,24,Female,High - Level,10-02-2019,10,2,2019,21 - 30,5-10 Years,Involuntory
+135,Violation of Policy,Retail,9,24,Female,Mid - Level,11-03-2020,11,3,2020,21 - 30,5-10 Years,Involuntory
+136,Violation of Policy,Retail,10,24,Female,High - Level,12-04-2021,12,4,2021,21 - 30,5-10 Years,Involuntory
+137,Poor Performance,Corporate,9,24,Female,Mid - Level,13-05-2018,13,5,2018,21 - 30,5-10 Years,Involuntory
+138,Poor Performance,Corporate,10,24,Female,Operational,14-06-2019,14,6,2019,21 - 30,5-10 Years,Involuntory
+139,Poor Performance,Corporate,10,24,Female,Operational,15-07-2020,15,7,2020,21 - 30,5-10 Years,Involuntory
+140,Poor Performance,Corporate,11,24,Female,Mid - Level,16-08-2021,16,8,2021,21 - 30,10+ Years,Involuntory
+141,Poor Performance,Corporate,8,24,Female,High - Level,17-09-2018,17,9,2018,21 - 30,5-10 Years,Involuntory
+144,Dangerous Behaviour,Retail,-1,23,Male,Operational,20-12-2019,20,12,2019,21 - 30,>1 Years,Involuntory
+145,Dangerous Behaviour,Retail,4,28,Male,Operational,21-01-2018,21,1,2018,21 - 30,3-5 Years,Involuntory
+146,Dangerous Behaviour,Retail,5,30,Male,Operational,22-02-2019,22,2,2019,21 - 30,3-5 Years,Involuntory
+147,Dangerous Behaviour,Retail,3,28,Male,Mid - Level,23-03-2020,23,3,2020,21 - 30,1-3 Years,Involuntory
+148,Dangerous Behaviour,Retail,2,28,Male,Mid - Level,24-04-2021,24,4,2021,21 - 30,1-3 Years,Involuntory
+151,Misconduct,R&D,-1,23,Male,Operational,27-07-2020,27,7,2020,21 - 30,>1 Years,Involuntory
+152,Misconduct,R&D,-1,23,Male,Operational,28-08-2021,28,8,2021,21 - 30,>1 Years,Involuntory
+153,Misconduct,Retail,-1,23,Male,High - Level,29-09-2018,29,9,2018,21 - 30,>1 Years,Involuntory
+162,Poor Performance,R&D,9,24,Female,High - Level,07-06-2019,7,6,2019,21 - 30,5-10 Years,Involuntory
+163,Poor Performance,R&D,5,24,Female,High - Level,08-07-2020,8,7,2020,21 - 30,3-5 Years,Involuntory
+164,Poor Performance,R&D,6,24,Female,High - Level,09-08-2021,9,8,2021,21 - 30,5-10 Years,Involuntory
+165,Poor Performance,Supply Chain,3,24,Female,High - Level,10-09-2018,10,9,2018,21 - 30,1-3 Years,Involuntory
+166,Poor Performance,Supply Chain,2,24,Female,High - Level,11-10-2019,11,10,2019,21 - 30,1-3 Years,Involuntory
+168,Misconduct,Retail,7,29,Female,High - Level,13-12-2020,13,12,2020,21 - 30,5-10 Years,Involuntory
+169,Misconduct,Corporate,5,28,Female,High - Level,14-01-2018,14,1,2018,21 - 30,3-5 Years,Involuntory
+170,Misconduct,Corporate,2,24,Female,Mid - Level,15-02-2019,15,2,2019,21 - 30,1-3 Years,Involuntory
+171,Misconduct,Corporate,1,22,Female,Operational,16-03-2020,16,3,2020,21 - 30,1-3 Years,Involuntory
+176,Attendance,Corporate,3,30,Male,Mid - Level,21-08-2021,21,8,2021,21 - 30,1-3 Years,Involuntory
+179,Attendance,Corporate,3,28,Male,Operational,24-11-2020,24,11,2020,21 - 30,1-3 Years,Involuntory
+180,Attendance,Corporate,2,25,Male,Operational,25-12-2019,25,12,2019,21 - 30,1-3 Years,Involuntory
+182,Attendance,Corporate,2,25,Male,Operational,27-02-2019,27,2,2019,21 - 30,1-3 Years,Involuntory
+186,Poor Performance,R&D,2,24,Female,Operational,01-07-2019,31,6,2019,21 - 30,1-3 Years,Involuntory
+187,Poor Performance,Supply Chain,12,24,Female,Operational,19-07-2020,19,7,2020,21 - 30,10+ Years,Involuntory
+188,Poor Performance,Supply Chain,11,24,Female,Operational,20-08-2021,20,8,2021,21 - 30,10+ Years,Involuntory
+189,Poor Performance,Supply Chain,11,24,Female,Operational,21-09-2018,21,9,2018,21 - 30,10+ Years,Involuntory
+5,Attendance,Marketing,5,45,Female,Operational,05-05-2018,5,5,2018,41 - 50,3-5 Years,Involuntory
+12,Other Employment - Different Industry,Corporate,8,50,Female,Mid - Level,12-12-2019,12,12,2019,41 - 50,5-10 Years,Involuntory
+24,Personal Reason,R&D,2,55,Male,Mid - Level,24-12-2018,24,12,2018,51 - 60,1-3 Years,Voluntory
+27,Other Employment,Corporate,6,45,Female,Operational,27-03-2020,27,3,2020,41 - 50,5-10 Years,Voluntory
+31,Position Elimation,Retail,1,31,Male,Mid - Level,31-07-2020,31,7,2020,31 - 40,1-3 Years,Involuntory
+32,Position Elimation,Retail,5,31,Male,High - Level,01-08-2021,1,8,2021,31 - 40,3-5 Years,Involuntory
+33,Other Employment,Corporate,7,48,Female,Operational,02-09-2018,2,9,2018,41 - 50,5-10 Years,Voluntory
+34,Other Employment,Corporate,5,35,Female,Operational,03-10-2019,3,10,2019,31 - 40,3-5 Years,Voluntory
+35,Other Employment,Corporate,10,60,Female,Operational,04-11-2020,4,11,2020,51 - 60,5-10 Years,Voluntory
+36,Other Employment,Corporate,12,61,Female,Operational,05-12-2019,5,12,2019,60+,10+ Years,Voluntory
+37,Other Employment,Corporate,11,61,Female,Operational,06-01-2018,6,1,2018,60+,10+ Years,Voluntory
+43,Other Employment,Retail,7,56,Female,Operational,12-07-2020,12,7,2020,51 - 60,5-10 Years,Voluntory
+44,Other Employment,Retail,3,43,Female,Operational,13-08-2021,13,8,2021,41 - 50,1-3 Years,Voluntory
+46,Other Employment,Retail,5,35,Female,Mid - Level,15-10-2019,15,10,2019,31 - 40,3-5 Years,Voluntory
+49,Dishonesty,Supply Chain,2,36,Female,Operational,18-01-2018,18,1,2018,31 - 40,1-3 Years,Involuntory
+56,Other Employment,Retail,7,59,Male,Mid - Level,25-08-2021,25,8,2021,51 - 60,5-10 Years,Voluntory
+57,Other Employment,R&D,8,55,Male,Mid - Level,26-09-2018,26,9,2018,51 - 60,5-10 Years,Voluntory
+59,Other Employment,R&D,8,58,Male,Mid - Level,28-11-2020,28,11,2020,51 - 60,5-10 Years,Voluntory
+60,Other Employment,R&D,10,60,Male,High - Level,29-12-2020,29,12,2020,51 - 60,5-10 Years,Voluntory
+62,Position Elimation,Corporate,6,35,Male,Operational,03-03-2019,31,2,2019,31 - 40,5-10 Years,Involuntory
+63,Position Elimation,Corporate,7,45,Male,Operational,01-03-2020,1,3,2020,41 - 50,5-10 Years,Involuntory
+64,Position Elimation,Corporate,7,41,Female,Mid - Level,02-04-2021,2,4,2021,41 - 50,5-10 Years,Involuntory
+65,Position Elimation,Corporate,9,47,Female,Mid - Level,03-05-2018,3,5,2018,41 - 50,5-10 Years,Involuntory
+68,Dishonesty,Retail,5,31,Male,High - Level,06-08-2021,6,8,2021,31 - 40,3-5 Years,Involuntory
+69,Other Employment,R&D,4,35,Male,High - Level,07-09-2018,7,9,2018,31 - 40,3-5 Years,Voluntory
+71,Dishonesty,Retail,6,40,Male,High - Level,09-11-2020,9,11,2020,31 - 40,5-10 Years,Involuntory
+72,Dishonesty,Retail,9,58,Male,High - Level,10-12-2019,10,12,2019,51 - 60,5-10 Years,Involuntory
+84,Position Elimation,Production,8,49,Female,High - Level,22-12-2018,22,12,2018,41 - 50,5-10 Years,Involuntory
+89,Punctuality,Retail,5,40,Female,Operational,27-05-2018,27,5,2018,31 - 40,3-5 Years,Involuntory
+90,Position Elimation,Retail,10,55,Female,High - Level,28-06-2019,28,6,2019,51 - 60,5-10 Years,Involuntory
+91,Punctuality,Corporate,6,48,Female,Operational,29-07-2020,29,7,2020,41 - 50,5-10 Years,Involuntory
+92,Punctuality,Corporate,8,55,Female,High - Level,30-08-2021,30,8,2021,51 - 60,5-10 Years,Involuntory
+93,Punctuality,Corporate,10,61,Female,High - Level,01-10-2018,31,9,2018,60+,5-10 Years,Involuntory
+94,Punctuality,Retail,11,62,Female,High - Level,01-10-2019,1,10,2019,60+,10+ Years,Involuntory
+95,Position Elimation,Retail,12,60,Female,High - Level,02-11-2020,2,11,2020,51 - 60,10+ Years,Involuntory
+120,Refusing to follow Instruction,Retail,5,32,Female,Operational,27-12-2018,27,12,2018,31 - 40,3-5 Years,Involuntory
+122,Refusing to follow Instruction,Corporate,8,56,Female,Operational,01-03-2019,29,2,2019,51 - 60,5-10 Years,Involuntory
+123,Refusing to follow Instruction,Production,9,58,Male,Mid - Level,30-03-2020,30,3,2020,51 - 60,5-10 Years,Involuntory
+124,Refusing to follow Instruction,R&D,10,59,Male,Mid - Level,01-05-2021,31,4,2021,51 - 60,5-10 Years,Involuntory
+125,Inappropriate Behaviour,Retail,7,31,Female,Operational,01-05-2018,1,5,2018,31 - 40,5-10 Years,Involuntory
+126,Inappropriate Behaviour,Marketing,8,40,Female,Mid - Level,02-06-2019,2,6,2019,31 - 40,5-10 Years,Involuntory
+127,Inappropriate Behaviour,R&D,8,41,Male,Mid - Level,03-07-2020,3,7,2020,41 - 50,5-10 Years,Involuntory
+128,Inappropriate Behaviour,R&D,9,50,Male,Mid - Level,04-08-2021,4,8,2021,41 - 50,5-10 Years,Involuntory
+129,Attendance,R&D,6,50,Female,Mid - Level,05-09-2018,5,9,2018,41 - 50,5-10 Years,Involuntory
+130,Attendance,R&D,7,59,Female,High - Level,06-10-2019,6,10,2019,51 - 60,5-10 Years,Involuntory
+133,Attendance,Corporate,8,58,Female,Operational,09-01-2018,9,1,2018,51 - 60,5-10 Years,Involuntory
+142,Inappropriate Behaviour,R&D,11,60,Female,Mid - Level,18-10-2019,18,10,2019,51 - 60,10+ Years,Involuntory
+143,Inappropriate Behaviour,R&D,12,58,Female,Operational,19-11-2020,19,11,2020,51 - 60,10+ Years,Involuntory
+149,Dangerous Behaviour,R&D,5,35,Male,Mid - Level,25-05-2018,25,5,2018,31 - 40,3-5 Years,Involuntory
+150,Position Elimation,Retail,12,61,Male,Operational,26-06-2019,26,6,2019,60+,10+ Years,Involuntory
+154,Misconduct,Retail,4,36,Male,High - Level,30-10-2019,30,10,2019,31 - 40,3-5 Years,Involuntory
+155,Misconduct,Retail,8,40,Female,Operational,01-12-2020,31,11,2020,31 - 40,5-10 Years,Involuntory
+156,Dangerous Behaviour,R&D,6,45,Female,High - Level,01-12-2019,1,12,2019,41 - 50,5-10 Years,Involuntory
+157,Dangerous Behaviour,R&D,8,50,Female,High - Level,02-01-2018,2,1,2018,41 - 50,5-10 Years,Involuntory
+158,Dangerous Behaviour,Corporate,9,58,Female,High - Level,03-02-2019,3,2,2019,51 - 60,5-10 Years,Involuntory
+159,Dangerous Behaviour,Corporate,10,60,Female,High - Level,04-03-2020,4,3,2020,51 - 60,5-10 Years,Involuntory
+160,Attendance,Retail,8,58,Female,Operational,05-04-2021,5,4,2021,51 - 60,5-10 Years,Involuntory
+161,Attendance,Retail,9,60,Female,High - Level,06-05-2018,6,5,2018,51 - 60,5-10 Years,Involuntory
+167,Misconduct,Retail,9,60,Female,High - Level,12-11-2020,12,11,2020,51 - 60,5-10 Years,Involuntory
+172,Misconduct,Corporate,9,59,Female,Mid - Level,17-04-2021,17,4,2021,51 - 60,5-10 Years,Involuntory
+173,Attendance,Retail,9,59,Female,High - Level,18-05-2018,18,5,2018,51 - 60,5-10 Years,Involuntory
+174,Attendance,Retail,5,35,Female,Mid - Level,19-06-2019,19,6,2019,31 - 40,3-5 Years,Involuntory
+175,Attendance,Corporate,4,31,Male,Mid - Level,20-07-2020,20,7,2020,31 - 40,3-5 Years,Involuntory
+177,Position Elimation,Production,11,59,Male,Operational,22-09-2018,22,9,2018,51 - 60,10+ Years,Involuntory
+178,Misconduct,Retail,10,58,Female,Mid - Level,23-10-2019,23,10,2019,51 - 60,5-10 Years,Involuntory
+181,Position Elimation,Production,10,58,Female,Operational,26-01-2018,26,1,2018,51 - 60,5-10 Years,Involuntory
+183,Attendance,Corporate,10,60,Male,Operational,28-03-2020,28,3,2020,51 - 60,5-10 Years,Involuntory
+184,Attendance,Corporate,5,35,Male,Operational,29-04-2021,29,4,2021,31 - 40,3-5 Years,Involuntory
+185,Position Elimation,Production,11,61,Female,Operational,30-05-2018,30,5,2018,60+,10+ Years,Involuntory
+190,Position Elimation,Production,9,59,Female,Operational,22-10-2019,22,10,2019,51 - 60,5-10 Years,Involuntory
+1,Retirement,Retail,4,35,Female,Operational,01-01-2018,1,1,2018,31 - 40,3-5 Years,Voluntory
+13,Retirement,Corporate,-1,23,Female,Mid - Level,13-01-2018,13,1,2018,21 - 30,>1 Years,Voluntory
+14,Retirement,Marketing,1,23,Female,High - Level,14-02-2019,14,2,2019,21 - 30,1-3 Years,Voluntory
+15,Retirement,Production,2,23,Female,Operational,15-03-2020,15,3,2020,21 - 30,1-3 Years,Voluntory
+16,Retirement,Retail,2,25,Female,Operational,16-04-2021,16,4,2021,21 - 30,1-3 Years,Voluntory
+17,Retirement,Retail,3,25,Female,Operational,17-05-2018,17,5,2018,21 - 30,1-3 Years,Voluntory
+18,Retirement,Retail,4,25,Male,Operational,18-06-2019,18,6,2019,21 - 30,3-5 Years,Voluntory
+19,Retirement,Retail,4,25,Male,Operational,19-07-2020,19,7,2020,21 - 30,3-5 Years,Voluntory
+20,Retirement,Retail,5,26,Female,Operational,20-08-2021,20,8,2021,21 - 30,3-5 Years,Voluntory
+21,Retirement,Retail,6,27,Female,Operational,21-09-2018,21,9,2018,21 - 30,5-10 Years,Voluntory
+22,Retirement,Retail,-1,23,Female,Operational,22-10-2019,22,10,2019,21 - 30,>1 Years,Voluntory
+75,Retirement,Retail,3,25,Female,Operational,13-03-2020,13,3,2020,21 - 30,1-3 Years,Voluntory
+76,Retirement,Retail,3,25,Female,Operational,14-04-2021,14,4,2021,21 - 30,1-3 Years,Voluntory
+77,Retirement,Retail,3,25,Female,Operational,15-05-2018,15,5,2018,21 - 30,1-3 Years,Voluntory
+78,Retirement,Retail,3,25,Female,Operational,16-06-2019,16,6,2019,21 - 30,1-3 Years,Voluntory
+79,Retirement,Retail,-1,22,Female,Operational,17-07-2020,17,7,2020,21 - 30,>1 Years,Voluntory
+80,Retirement,Retail,9,31,Female,Operational,18-08-2021,18,8,2021,31 - 40,5-10 Years,Voluntory
+81,Retirement,Retail,8,29,Male,Operational,19-09-2018,19,9,2018,21 - 30,5-10 Years,Voluntory
+82,Retirement,Marketing,8,29,Male,Operational,20-10-2019,20,10,2019,21 - 30,5-10 Years,Voluntory
+99,Retirement,Marketing,8,30,Male,Operational,06-03-2020,6,3,2020,21 - 30,5-10 Years,Voluntory
+100,Retirement,Marketing,6,35,Male,High - Level,07-04-2021,7,4,2021,31 - 40,5-10 Years,Voluntory
+101,Retirement,Production,6,35,Male,High - Level,08-05-2018,8,5,2018,31 - 40,5-10 Years,Voluntory
+102,Retirement,Production,11,60,Male,High - Level,09-06-2019,9,6,2019,51 - 60,10+ Years,Voluntory
+103,Retirement,Corporate,7,30,Male,High - Level,10-07-2020,10,7,2020,21 - 30,5-10 Years,Voluntory
+104,Retirement,Corporate,7,56,Male,High - Level,11-08-2021,11,8,2021,51 - 60,5-10 Years,Voluntory
+105,Retirement,Corporate,12,60,Female,High - Level,12-09-2018,12,9,2018,51 - 60,10+ Years,Voluntory
+106,Retirement,Corporate,10,60,Female,High - Level,13-10-2019,13,10,2019,51 - 60,5-10 Years,Voluntory
+107,Retirement,Corporate,12,62,Female,High - Level,14-11-2020,14,11,2020,60+,10+ Years,Voluntory
+108,Retirement,Corporate,13,61,Female,High - Level,15-12-2019,15,12,2019,60+,10+ Years,Voluntory
+109,Retirement,Corporate,11,60,Female,Mid - Level,16-01-2018,16,1,2018,51 - 60,10+ Years,Voluntory
+110,Retirement,Corporate,11,62,Female,Mid - Level,17-02-2019,17,2,2019,60+,10+ Years,Voluntory
+111,Retirement,Corporate,13,61,Male,Mid - Level,18-03-2020,18,3,2020,60+,10+ Years,Voluntory
+112,Retirement,Corporate,12,60,Male,Mid - Level,19-04-2021,19,4,2021,51 - 60,10+ Years,Voluntory
+113,Retirement,Corporate,12,60,Male,Mid - Level,20-05-2018,20,5,2018,51 - 60,10+ Years,Voluntory

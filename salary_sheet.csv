@@ -1,0 +1,127 @@
+Date,Location,Organization_Level,Salary,Age,Gender,Completed_Program,Participants,Hours,Training Cost,Training Type,Emp Name,Emp ID,Rating,ESAT,Year1,Month Name,Month,Month1,Age_Range,Bu,Year
+01-01-2018,Australia,High -Level,1000000,65,Male,Conflict Management,15,10,1000,External,RONALD ALIOSA,10002,3,4,Q1-2018,January,1,Jan,60+,Corporate,2018
+02-01-2018,Australia,High -Level,1200000,22,Female,Conflict Management,5,20,2000,Internal,ABDULLA,10004,4,2,Q1-2018,January,1,Jan,20-30,Marketing,2018
+03-01-2018,Australia,High -Level,1400000,34,Male,Conflict Management,6,30,3000,External,MOHAMED,10013,5,3,Q1-2018,January,1,Jan,30-40,Production,2018
+01-02-2018,Australia,High -Level,1600000,44,Male,Conflict Management,8,40,4000,External,MAHMOUD,10054,3,3,Q1-2018,February,2,Feb,40-50,R&D,2018
+02-02-2018,Australia,High -Level,1800000,52,Female,Conflict Management,9,50,5000,Internal,ABBAS,10076,3,2,Q1-2018,February,2,Feb,50-60,Retail,2018
+03-02-2018,Australia,High -Level,2000000,33,Male,Conflict Management,53,60,6000,External,GHULAM,10093,4,4,Q1-2018,February,2,Feb,30-40,Supply Chain,2018
+01-03-2018,England,Mid-Level,2200000,66,Female,Conflict Management,5,70,7000,Internal,GHULAM,10094,5,1,Q1-2018,March,3,Mar,60+,Corporate,2018
+02-03-2018,England,Mid-Level,2400000,23,Female,Conflict Management,7,80,8000,Internal,GHULAM,10101,3,3,Q1-2018,March,3,Mar,20-30,Marketing,2018
+03-03-2018,England,Mid-Level,2600000,35,Male,Conflict Management,8,90,9000,External,GHULAM,10109,4,3,Q1-2018,March,3,Mar,30-40,Production,2018
+01-04-2018,England,Mid-Level,2800000,45,Male,Conflict Management,9,100,10000,External,CHANDRASEKHARAN,10148,3,3,Q2-2018,April,4,Apr,40-50,R&D,2018
+02-04-2018,England,Mid-Level,3000000,53,Male,Production Training,4,110,1000,External,ALI,10199,2,2,Q2-2018,April,4,Apr,50-60,Retail,2018
+03-04-2018,England,Mid-Level,3200000,34,Female,Production Training,3,120,3000,Internal,AGHARID,10594,4,3,Q2-2018,April,4,Apr,30-40,Supply Chain,2018
+01-05-2018,Germany,Operational,3400000,67,Male,Production Training,4,130,5000,External,MOHAMED,11240,2,3,Q2-2018,May,5,May,60+,Corporate,2018
+02-05-2018,Germany,Operational,30000,24,Male,Production Training,2,140,7000,External,PARAKAT,11260,3,4,Q2-2018,May,5,May,20-30,Marketing,2018
+03-05-2018,Germany,Operational,3800000,36,Female,Production Training,2,150,9000,Internal,GEORGE,11276,3,3,Q2-2018,May,5,May,30-40,Production,2018
+01-06-2018,Germany,Operational,4000000,46,Male,Production Training,4,160,11000,External,AKRAM,11356,4,1,Q2-2018,June,6,Jun,40-50,R&D,2018
+02-06-2018,Germany,Operational,4200000,55,Female,Production Training,4,170,13000,Internal,YASSER,11515,5,2,Q2-2018,June,6,Jun,50-60,Retail,2018
+03-06-2018,Germany,Operational,4400000,35,Female,Power BI,40,50,1000,Internal,HAIDER,11583,3,4,Q2-2018,June,6,Jun,30-40,Supply Chain,2018
+01-07-2018,Italy,High -Level,4600000,68,Male,Power BI,20,60,3000,External,BINDER,11597,4,4,Q3-2018,July,7,Jul,60+,Corporate,2018
+02-07-2018,Italy,High -Level,4800000,25,Male,Power BI,3,70,5000,External,KULBIR,11656,5,4,Q3-2018,July,7,Jul,20-30,Marketing,2018
+03-07-2018,Italy,High -Level,5000000,37,Male,Power BI,64,80,7000,External,JAWAD,11826,2,3,Q3-2018,July,7,Jul,30-40,Production,2018
+01-08-2018,Italy,High -Level,5200000,47,Male,Power BI,5,90,9000,External,RAJESH,12088,3,1,Q3-2018,August,8,Aug,40-50,R&D,2018
+02-08-2018,Italy,High -Level,5400000,55,Female,Power BI,6,100,11000,Internal,TIJU,12093,4,2,Q3-2018,August,8,Aug,50-60,Retail,2018
+03-08-2018,Italy,High -Level,5600000,36,Female,Power BI,6,110,13000,Internal,KARRAVVLA,12227,4,4,Q3-2018,August,8,Aug,30-40,Supply Chain,2018
+01-09-2018,South Korea,Mid-Level,58000,65,Male,Power BI,3,120,15000,External,PRINCE,12347,3,1,Q3-2018,September,9,Sep,60+,Corporate,2018
+02-09-2018,South Korea,Mid-Level,600000,22,Male,Power BI,2,130,17000,External,BINDER,12352,4,3,Q3-2018,September,9,Sep,20-30,Marketing,2018
+03-09-2018,South Korea,Mid-Level,6200000,34,Female,Snowflake,3,10,1000,Internal,SIBIN,12357,3,1,Q3-2018,September,9,Sep,30-40,Production,2018
+01-10-2018,South Korea,Mid-Level,6400000,44,Male,Snowflake,5,20,2000,External,YASSER,12468,4,2,Q4-2018,October,10,Oct,40-50,R&D,2018
+02-10-2018,South Korea,Mid-Level,6600000,52,Male,Snowflake,5,30,3000,External,ABDUL,12574,3,4,Q4-2018,October,10,Oct,50-60,Retail,2018
+03-10-2018,South Korea,Mid-Level,6800000,33,Female,Snowflake,6,40,4000,Internal,BENOY,12666,2,1,Q4-2018,October,10,Oct,30-40,Supply Chain,2018
+01-11-2018,UAE,Operational,7000000,66,Male,Snowflake,3,50,5000,External,MOHAMMED,12715,3,4,Q4-2018,November,11,Nov,60+,Corporate,2018
+02-11-2018,UAE,Operational,7200000,23,Male,Snowflake,2,60,6000,External,WALID,12831,4,4,Q4-2018,November,11,Nov,20-30,Marketing,2018
+03-11-2018,UAE,Operational,7400000,35,Female,Snowflake,6,70,7000,Internal,MOHD,12844,3,3,Q4-2018,November,11,Nov,30-40,Production,2018
+01-12-2018,UAE,Operational,7600000,45,Male,Snowflake,90,80,8000,External,WALID,12961,2,4,Q4-2018,December,12,Dec,40-50,R&D,2018
+02-12-2018,UAE,Operational,7800000,53,Female,Snowflake,70,90,9000,Internal,AHMED,12971,2,4,Q4-2018,December,12,Dec,50-60,Retail,2018
+03-12-2018,UAE,Operational,8000,34,Male,Snowflake,5,100,10000,External,WAEL,12987,3,3,Q4-2018,December,12,Dec,30-40,Supply Chain,2018
+01-01-2019,United States,High -Level,82000,67,Male,Snowflake,6,110,11000,External,SANDEEP,13026,4,3,Q1-2019,January,1,Jan,60+,Corporate,2019
+02-01-2019,United States,High -Level,8400000,24,Female,Snowflake,3,120,12000,Internal,KADER,13165,3,4,Q1-2019,January,1,Jan,20-30,Marketing,2019
+03-01-2019,United States,High -Level,8600000,36,Female,Snowflake,5,130,13000,Internal,JOBBY,13192,4,1,Q1-2019,January,1,Jan,30-40,Production,2019
+01-02-2019,United States,High -Level,8800000,46,Male,Snowflake,4,140,14000,External,JASSIM,13452,2,1,Q1-2019,February,2,Feb,40-50,R&D,2019
+02-02-2019,United States,High -Level,900,55,Male,Looker,5,50,1000,External,TALIAH,13517,3,4,Q1-2019,February,2,Feb,50-60,Retail,2019
+03-02-2019,United States,High -Level,9200000,35,Male,Looker,9,60,3000,External,SANDESH,13530,4,1,Q1-2019,February,2,Feb,30-40,Supply Chain,2019
+01-03-2019,Australia,High -Level,9400000,65,Female,Looker,12,70,5000,Internal,SREELATHA,13787,5,3,Q1-2019,March,3,Mar,60+,Corporate,2019
+02-03-2019,Australia,High -Level,9600000,22,Female,Looker,1,80,7000,Internal,YOUNUS,14251,3,3,Q1-2019,March,3,Mar,20-30,Marketing,2019
+03-03-2019,Australia,High -Level,9800000,34,Male,Looker,1,90,9000,External,RANI,14451,5,4,Q1-2019,March,3,Mar,30-40,Production,2019
+01-04-2019,Australia,High -Level,10000000,44,Male,Looker,1,100,11000,External,CHANDRA,15784,3,3,Q2-2019,April,4,Apr,40-50,R&D,2019
+02-04-2019,Australia,High -Level,10200000,52,Male,Looker,61,110,13000,External,VIMAL,15849,3,3,Q2-2019,April,4,Apr,50-60,Retail,2019
+03-04-2019,Australia,High -Level,10400000,33,Female,Qlik,4,40,1000,Internal,MUNI,16035,4,2,Q2-2019,April,4,Apr,30-40,Supply Chain,2019
+01-05-2019,England,Mid-Level,1000,66,Male,Qlik,5,50,4000,External,FATMA,16053,3,4,Q2-2019,May,5,May,60+,Corporate,2019
+02-05-2019,England,Mid-Level,10800000,23,Female,Qlik,50,60,7000,Internal,ALI,16232,3,4,Q2-2019,May,5,May,20-30,Marketing,2019
+03-05-2019,England,Mid-Level,11000000,35,Female,Qlik,3,70,10000,Internal,MOHAMED,16311,2,3,Q2-2019,May,5,May,30-40,Production,2019
+01-06-2019,England,Mid-Level,11200000,45,Female,Qlik,3,80,13000,Internal,CHANDRAMOHANAN,16330,3,3,Q2-2019,June,6,Jun,40-50,R&D,2019
+02-06-2019,England,Mid-Level,11400000,53,Male,Qlik,4,90,16000,External,TINU,16395,4,1,Q2-2019,June,6,Jun,50-60,Retail,2019
+03-06-2019,England,Mid-Level,11600000,34,Male,Looker,1,20,1000,External,PRINCE,16524,4,1,Q2-2019,June,6,Jun,30-40,Supply Chain,2019
+01-07-2019,Germany,Operational,11800000,67,Female,Looker,2,30,2000,Internal,ALAA,16675,3,4,Q3-2019,July,7,Jul,60+,Corporate,2019
+02-07-2019,Germany,Operational,12000000,24,Female,Looker,2,40,3000,Internal,NADER,16770,3,4,Q3-2019,July,7,Jul,20-30,Marketing,2019
+03-07-2019,Germany,Operational,1220,36,Male,Looker,4,50,4000,External,KASSEM,16844,3,1,Q3-2019,July,7,Jul,30-40,Production,2019
+01-08-2019,Germany,Operational,12400000,46,Male,Looker,2,60,5000,External,SOBHY,17245,4,1,Q3-2019,August,8,Aug,40-50,R&D,2019
+02-08-2019,Germany,Operational,12600000,55,Male,Looker,3,70,6000,External,OWAYED,17283,5,4,Q3-2019,August,8,Aug,50-60,Retail,2019
+03-08-2019,Germany,Operational,12800000,35,Female,Looker,5,80,7000,Internal,SHAYMAA,17299,3,3,Q3-2019,August,8,Aug,30-40,Supply Chain,2019
+01-09-2019,Italy,High -Level,130000,65,Female,Development,5,10,1000,Internal,SALISH,17470,2,4,Q3-2019,September,9,Sep,60+,Corporate,2019
+02-09-2019,Italy,High -Level,13200000,22,Male,Development,6,20,3000,External,ABDEL,17474,4,4,Q3-2019,September,9,Sep,20-30,Marketing,2019
+03-09-2019,Italy,High -Level,13400000,34,Male,Development,6,30,5000,External,DAWOUD,17616,3,3,Q3-2019,September,9,Sep,30-40,Production,2019
+01-10-2019,Italy,High -Level,13600000,44,Female,Development,10,40,7000,Internal,KAPSI,17658,3,1,Q4-2019,October,10,Oct,40-50,R&D,2019
+02-10-2019,Italy,High -Level,13800000,52,Female,Development,25,50,9000,Internal,AHMED,17670,3,3,Q4-2019,October,10,Oct,50-60,Retail,2019
+03-10-2019,Italy,High -Level,10000,33,Male,Development,8,60,11000,External,MUHAMMADRAFEEKH,17695,4,3,Q4-2019,October,10,Oct,30-40,Supply Chain,2019
+01-11-2019,South Korea,Mid-Level,14200000,66,Male,Dell Boomi,8,70,1000,External,MAHMOUD,18015,5,2,Q4-2019,November,11,Nov,60+,Corporate,2019
+02-11-2019,South Korea,Mid-Level,14400000,23,Male,Dell Boomi,3,80,3000,External,KHURSHID,18037,3,1,Q4-2019,November,11,Nov,20-30,Marketing,2019
+03-11-2019,South Korea,Mid-Level,14600000,35,Female,Dell Boomi,46,90,5000,Internal,MOHD,18147,3,1,Q4-2019,November,11,Nov,30-40,Production,2019
+01-12-2019,South Korea,Mid-Level,14800000,45,Female,Dell Boomi,3,100,7000,Internal,KHALEEL,18234,4,3,Q4-2019,December,12,Dec,40-50,R&D,2019
+02-12-2019,South Korea,Mid-Level,100000,53,Male,Dell Boomi,2,110,9000,External,MOHAMMAD,18396,3,3,Q4-2019,December,12,Dec,50-60,Retail,2019
+03-12-2019,South Korea,Mid-Level,15200000,34,Male,Development,8,120,1000,External,GARRETT,18588,4,2,Q4-2019,December,12,Dec,30-40,Supply Chain,2019
+01-01-2020,UAE,Operational,15400000,67,Female,Development,12,130,4000,Internal,BADRIA,18609,5,2,Q1-2020,January,1,Jan,60+,Corporate,2020
+02-01-2020,UAE,Operational,15600000,24,Female,Email Management,5,10,1000,Internal,SANIL,18938,3,2,Q1-2020,January,1,Jan,20-30,Marketing,2020
+03-01-2020,UAE,Operational,10000,36,Male,Email Management,5,20,2000,External,MANAL,19012,2,4,Q1-2020,January,1,Jan,30-40,Production,2020
+01-02-2020,UAE,Operational,16000000,46,Male,Email Management,5,30,3000,External,MANAF,19015,5,4,Q1-2020,February,2,Feb,40-50,R&D,2020
+02-02-2020,UAE,Operational,10000,55,Female,Email Management,72,40,4000,Internal,HASSAN,19095,4,1,Q1-2020,February,2,Feb,50-60,Retail,2020
+03-02-2020,UAE,Operational,16400000,35,Male,Email Management,4,50,5000,External,MAHDI,19112,4,1,Q1-2020,February,2,Feb,30-40,Supply Chain,2020
+01-03-2020,United States,High -Level,16600000,65,Male,Email Management,9,60,6000,External,ABDULHADI,19153,3,3,Q1-2020,March,3,Mar,60+,Corporate,2020
+02-03-2020,United States,High -Level,16800000,22,Female,Email Management,3,70,7000,Internal,ALI,19182,2,2,Q1-2020,March,3,Mar,20-30,Marketing,2020
+03-03-2020,United States,High -Level,17000000,34,Male,Email Management,7,80,8000,External,MOHAMMAD,19184,4,4,Q1-2020,March,3,Mar,30-40,Production,2020
+01-04-2020,United States,High -Level,10000,44,Male,Email Management,30,90,9000,External,RAJAE,19196,5,3,Q2-2020,April,4,Apr,40-50,R&D,2020
+02-04-2020,United States,High -Level,17400000,52,Male,Email Management,2,100,10000,External,HADEEL,19239,3,4,Q2-2020,April,4,Apr,50-60,Retail,2020
+03-04-2020,United States,High -Level,17600000,33,Female,Salesforce,1,10,1000,Internal,KRISHNA,19296,4,4,Q2-2020,April,4,Apr,30-40,Supply Chain,2020
+01-05-2020,Australia,High -Level,17800000,66,Female,Salesforce,1,20,2000,Internal,MUHAMED,19346,5,2,Q2-2020,May,5,May,60+,Corporate,2020
+02-05-2020,Australia,High -Level,18000000,23,Male,Salesforce,80,30,3000,External,SURESH,19428,3,4,Q2-2020,May,5,May,20-30,Marketing,2020
+03-05-2020,Australia,High -Level,18200000,35,Male,Salesforce,1,40,4000,External,ABDOU,19472,3,1,Q2-2020,May,5,May,30-40,Production,2020
+01-06-2020,Australia,High -Level,18400000,45,Female,Salesforce,51,50,5000,Internal,NIKHIL,19505,4,4,Q2-2020,June,6,Jun,40-50,R&D,2020
+02-06-2020,Australia,High -Level,18600000,53,Male,Salesforce,1,60,6000,External,LAKSHMI,19563,4,4,Q2-2020,June,6,Jun,50-60,Retail,2020
+03-06-2020,Australia,High -Level,18800000,34,Male,Salesforce,3,70,7000,External,HAZEM,19565,4,4,Q2-2020,June,6,Jun,30-40,Supply Chain,2020
+01-07-2020,England,Mid-Level,190000,67,Female,Salesforce,3,80,8000,Internal,RAMADASU,19568,3,2,Q3-2020,July,7,Jul,60+,Corporate,2020
+02-07-2020,England,Mid-Level,19200000,24,Male,Salesforce,4,90,9000,External,DEEPAK,19627,5,4,Q3-2020,July,7,Jul,20-30,Marketing,2020
+03-07-2020,England,Mid-Level,19400000,36,Male,Salesforce,5,100,10000,External,HAMADA,19684,4,2,Q3-2020,July,7,Jul,30-40,Production,2020
+01-08-2020,England,Mid-Level,19600000,46,Male,Salesforce,2,110,11000,External,NICHOLAS,19790,4,1,Q3-2020,August,8,Aug,40-50,R&D,2020
+02-08-2020,England,Mid-Level,19800000,55,Female,Salesforce,2,120,12000,Internal,AHMED,19813,3,3,Q3-2020,August,8,Aug,50-60,Retail,2020
+03-08-2020,England,Mid-Level,200000,35,Female,Salesforce,4,130,13000,Internal,NAJLA,19905,4,3,Q3-2020,August,8,Aug,30-40,Supply Chain,2020
+01-09-2020,Germany,Operational,20200000,65,Male,Salesforce,34,140,14000,External,NOURAH,19910,4,3,Q3-2020,September,9,Sep,60+,Corporate,2020
+02-09-2020,Germany,Operational,20400000,22,Female,Salesforce,2,150,15000,Internal,FATEMAH,19970,3,3,Q3-2020,September,9,Sep,20-30,Marketing,2020
+03-09-2020,Germany,Operational,200000,34,Male,Salesforce,2,160,16000,External,KAMRAN,19977,4,3,Q3-2020,September,9,Sep,30-40,Production,2020
+01-10-2020,Germany,Operational,20800000,44,Male,Python,1,10,1000,External,MOHAMED,20045,3,2,Q4-2020,October,10,Oct,40-50,R&D,2020
+02-10-2020,Germany,Operational,21000000,52,Male,Python,2,20,2000,External,OSAMA,20046,3,1,Q4-2020,October,10,Oct,50-60,Retail,2020
+03-10-2020,Germany,Operational,21200000,33,Female,Python,3,30,3000,Internal,MILTON,20062,3,1,Q4-2020,October,10,Oct,30-40,Supply Chain,2020
+01-11-2020,Italy,High -Level,21400000,66,Female,Python,34,40,4000,Internal,EDELWINA,20080,3,4,Q4-2020,November,11,Nov,60+,Corporate,2020
+02-11-2020,Italy,High -Level,21600000,23,Male,Python,4,50,5000,External,MOHANNAD,20673,3,3,Q4-2020,November,11,Nov,20-30,Marketing,2020
+03-11-2020,Italy,High -Level,21800,35,Male,Python,5,60,6000,External,SALAH,20674,5,4,Q4-2020,November,11,Nov,30-40,Production,2020
+01-12-2020,Italy,High -Level,22000000,45,Male,Python,1,70,7000,External,ADNAN,20710,4,4,Q4-2020,December,12,Dec,40-50,R&D,2020
+02-12-2020,Italy,High -Level,22200000,53,Female,Python,1,80,8000,Internal,GHAZANFAR,20764,3,2,Q4-2020,December,12,Dec,50-60,Retail,2020
+03-12-2020,Italy,High -Level,22400000,34,Female,Python,1,90,9000,Internal,BODOUR,20799,3,3,Q4-2020,December,12,Dec,30-40,Supply Chain,2020
+01-01-2021,South Korea,Mid-Level,2000,67,Male,Python,2,100,10000,External,EMAD,20833,4,4,Q1-2021,January,1,Jan,60+,Corporate,2021
+02-01-2021,South Korea,Mid-Level,22800000,24,Male,Python,2,110,11000,External,AJISH,20919,4,4,Q1-2021,January,1,Jan,20-30,Marketing,2021
+03-01-2021,South Korea,Mid-Level,23000000,36,Male,Python,2,120,12000,External,MARYAM,21004,3,1,Q1-2021,January,1,Jan,30-40,Production,2021
+04-01-2021,South Korea,Mid-Level,23200000,46,Female,Python,3,130,13000,Internal,MECHARI,21006,3,3,Q1-2021,January,1,Jan,40-50,R&D,2021
+01-02-2021,South Korea,Mid-Level,23400000,55,Female,Python,4,140,14000,Internal,SHAHAD,21047,4,4,Q1-2021,February,2,Feb,50-60,Retail,2021
+02-02-2021,South Korea,Mid-Level,23600000,35,Male,Selenium Testing,3,10,1000,External,FATEMAH,21269,3,3,Q1-2021,February,2,Feb,30-40,Supply Chain,2021
+03-02-2021,UAE,Operational,23800000,65,Female,Selenium Testing,3,20,2000,Internal,MOHAMED,21286,5,2,Q1-2021,February,2,Feb,60+,Corporate,2021
+01-03-2021,UAE,Operational,24000,22,Male,Selenium Testing,5,30,3000,External,SADEQ,21437,3,4,Q1-2021,March,3,Mar,20-30,Marketing,2021
+02-03-2021,UAE,Operational,24200000,34,Male,Selenium Testing,4,40,4000,External,JESA,21448,4,1,Q1-2021,March,3,Mar,30-40,Production,2021
+01-04-2021,UAE,Operational,24400000,44,Female,Selenium Testing,2,50,5000,Internal,ANWAR,21497,3,4,Q2-2021,April,4,Apr,40-50,R&D,2021
+02-04-2021,UAE,Operational,24600000,52,Male,Selenium Testing,2,60,6000,External,NABEEL,21498,3,4,Q2-2021,April,4,Apr,50-60,Retail,2021
+03-04-2021,UAE,Operational,24800000,33,Male,Selenium Testing,3,70,7000,External,SHADAB,21562,4,4,Q2-2021,April,4,Apr,30-40,Supply Chain,2021
+01-05-2021,United States,High -Level,25000000,66,Female,Selenium Testing,5,80,8000,Internal,AHMED,21579,4,3,Q2-2021,May,5,May,60+,Corporate,2021
+02-05-2021,United States,High -Level,25200000,23,Male,Selenium Testing,2,90,9000,External,MOHAMMAD,21587,5,2,Q2-2021,May,5,May,20-30,Marketing,2021
+01-06-2021,United States,High -Level,2000,35,Female,Selenium Testing,5,100,10000,Internal,MOHAMMAD,21625,3,2,Q2-2021,June,6,Jun,30-40,Production,2021
+02-06-2021,United States,High -Level,25600000,45,Male,Selenium Testing,4,110,11000,External,ALI,21628,4,3,Q2-2021,June,6,Jun,40-50,R&D,2021
+03-06-2021,United States,High -Level,25800000,53,Female,Selenium Testing,1,120,12000,Internal,KHADEEJAH,21629,3,3,Q2-2021,June,6,Jun,50-60,Retail,2021
+04-06-2021,United States,High -Level,26000000,34,Male,Selenium Testing,3,130,13000,External,KHALEDA,21633,3,2,Q2-2021,June,6,Jun,30-40,Supply Chain,2021
